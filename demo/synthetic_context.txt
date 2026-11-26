@@ -1,0 +1,3 @@
+EVIDENCEARCH DEMO CONTEXT
+
+This is synthetic demonstration text. It is not extracted from a computer, user, or Registry hive. The demo investigation adapter receives this file's metadata only; it does not read or interpret this text.
