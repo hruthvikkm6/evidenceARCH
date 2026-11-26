@@ -13,7 +13,7 @@ Built with **FastAPI**, **SQLite**, **React**, and **Vite**. The core demo runs 
 ![Vite](https://img.shields.io/badge/Build-Vite-646CFF?logo=vite&logoColor=white)
 ![Phase 1](https://img.shields.io/badge/Status-Academic%20Prototype-6C757D)
 
-[Overview](#overview) · [Workflow](#investigation-workflow) · [Architecture](#architecture) · [Setup](#run-locally) · [Demo](#run-the-guided-demo) · [API](#api-overview) · [Team Integration](#team-integration)
+[Repository](https://github.com/hruthvikkm6/EVIDENCEARCH) · [Overview](#overview) · [Workflow](#investigation-workflow) · [Architecture](#architecture) · [Setup](#run-locally) · [Demo](#run-the-guided-demo) · [API](#api-overview) · [Team Integration](#team-integration) · [Contact](#contact)
 
 ---
 
@@ -273,3 +273,12 @@ Do not stage `.env`, virtual environments, `node_modules`, SQLite runtime databa
 Commit source code, tests, documentation, demo fixtures, and dependency lockfiles. Keep `.env`, virtual environments, `node_modules`, SQLite databases, acquired evidence, working copies, logs, and build artifacts out of version control. These runtime files are covered by `.gitignore`.
 
 This repository does not currently declare an open-source license. Choose and add a license before granting reuse rights.
+
+## Contact
+
+**Hruthvik K M**
+
+- Email: [hruthvikkm6@gmail.com](mailto:hruthvikkm6@gmail.com)
+- GitHub: [hruthvikkm6](https://github.com/hruthvikkm6/)
+- Project repository: [EVIDENCEARCH](https://github.com/hruthvikkm6/EVIDENCEARCH)
+- LinkedIn: [linkedin.com/in/hruthvikkm](https://www.linkedin.com/in/hruthvikkm/)
